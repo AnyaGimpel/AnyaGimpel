@@ -18,7 +18,9 @@
 
 :woman_technologist: About Me :
 
-I am an Android developer and a third-year student at BSUIR. I have been working in Android development for over 1.5 years. I have developed my own training projects using Kotlin and Java, with experience in technologies such as Coroutines, Retrofit 2, Compose, and others. I have experience in both the technical implementation of products and analyzing subject matter to effectively design mobile applications. I am proficient in English. :octopus:
+I am an Android developer and a third-year student at BSUIR. I am proficient in developing applications using XML and have knowledge of the Jetpack
+Compose toolkit for creating modern UIs. In my own projects, I handle both the technical
+implementation and subject matter analysis. I
 
 - :woman_student: I study at BSUIR, learn psychology, design, project management and some programming languages.
 
