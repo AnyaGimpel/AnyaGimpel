@@ -3,14 +3,11 @@
 <div id="header" align="center">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVka3djcm54d3E5Ync4dXV5ZGFqeHBwZGh1N3VoaDBpMzMxempnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/diana-novak">
+    <a href="https://www.linkedin.com/in/anya-gimpel-4224aa251/">
       <img src="https://img.shields.io/badge/LinkedIn-%233366CC?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/dia__novak?igsh=bDI5d2prdHkzdHJh">
+    <a href="https://www.instagram.com/himpelka?igsh=NTc4MTIwNjQ2YQ==">
       <img src="https://img.shields.io/badge/Instagram-%23db7704?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100011068566508&mibextid=LQQJ4d">
-      <img src="https://img.shields.io/badge/Facebook-%230033CC?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=floppyDi&style=flat-square&color=orange" alt=""/>
