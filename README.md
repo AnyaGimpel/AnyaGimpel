@@ -1,7 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
 
 <div id="header" align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVka3djcm54d3E5Ync4dXV5ZGFqeHBwZGh1N3VoaDBpMzMxempnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="140"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVka3djcm54d3E5Ync4dXV5ZGFqeHBwZGh1N3VoaDBpMzMxempnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/diana-novak">
       <img src="https://img.shields.io/badge/LinkedIn-%233366CC?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
