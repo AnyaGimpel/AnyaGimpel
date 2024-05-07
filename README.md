@@ -20,8 +20,9 @@
 
 I am an Android developer and a third-year student at BSUIR. I am proficient in developing applications using XML and have knowledge of the Jetpack
 Compose toolkit for creating modern UIs. In my own projects, I handle both the technical
-implementation and subject matter analysis. I
+implementation and subject matter analysis.
 
+Some other facts:
 - :woman_student: I study at BSUIR, learn psychology, design, project management and some programming languages.
 
 - :iphone: I have been working in Android development for over 1.5 years.
