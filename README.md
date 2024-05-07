@@ -12,29 +12,22 @@
       <img src="https://img.shields.io/badge/Instagram-%23db7704?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=floppyDi&style=flat-square&color=orange" alt=""/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExandsN2dsbDllaWw3c3VudGl1YTF0YW5pbzViNHBkMGdxcDF2aTFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wj7lNjMNDxSmc/giphy.gif" width="60px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduaWcyMWM2ODN2Zndpb2lqYjJtOTRuOW5qank5bGZrZGM5NzE3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
 
 --- 
 
 :woman_technologist: About Me :
 
-I am a UX/UI designer from Belarus. :octopus:
+I am an Android developer and a third-year student at BSUIR. I have been working in Android development for over 1.5 years. I have developed my own training projects using Kotlin and Java, with experience in technologies such as Coroutines, Retrofit 2, Compose, and others. I have experience in both the technical implementation of products and analyzing subject matter to effectively design mobile applications. I am proficient in English. :octopus:
 
-- :telescope: I study at BSUIR, learn psychology, design, project management and some programming languages.
+- :woman_student: I study at BSUIR, learn psychology, design, project management and some programming languages.
 
-- :zap: Have experience in the field of game design, project and team management, frontend development.
+- :iphone: I have been working in Android development for over 1.5 years.
 
-- :seedling: In my free time, I play tennis, do horse riding and swimming.
+- :computer: I have developed my own training projects using Kotlin and Java
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Diana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diana-novak)
+- :tulip: I have experience in both the technical implementation of products and analyzing subject matter to effectively design mobile applications.
+  
+- :earth_africa: I am proficient in English.
 
 --- 
 
