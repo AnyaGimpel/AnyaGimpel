@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVka3djcm54d3E5Ync4dXV5ZGFqeHBwZGh1N3VoaDBpMzMxempnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="140"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/diana-novak">
       <img src="https://img.shields.io/badge/LinkedIn-%233366CC?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
