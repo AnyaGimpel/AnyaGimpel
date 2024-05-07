@@ -12,6 +12,7 @@
       <img src="https://img.shields.io/badge/Instagram-%23db7704?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
     </a>
   </div>
+  </div>
 
 --- 
 
