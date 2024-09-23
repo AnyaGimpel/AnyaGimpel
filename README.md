@@ -18,7 +18,7 @@
 
 :woman_technologist: About Me :
 
-I am an Android developer and a third-year student at BSUIR. I am proficient in developing applications using XML and have knowledge of the Jetpack
+I am an Android developer and a 4th-year student at BSUIR. I am proficient in developing applications using XML and have knowledge of the Jetpack
 Compose toolkit for creating modern UIs. In my own projects, I handle both the technical
 implementation and subject matter analysis.
 
